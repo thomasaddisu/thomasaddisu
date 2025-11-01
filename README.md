@@ -2,7 +2,7 @@
 **thomasaddisu/thomasaddisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👋 Hi, I'm Thomas Addisu
+# 👋 Hi, I'm Thomas
 
 🎓 I’m a **Software Engineering student at Addis Ababa Science and Technology University**, passionate about building impactful software solutions.  
 💡 I enjoy learning, experimenting, and sharing knowledge about **programming, web development, and machine learning**.
