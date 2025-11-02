@@ -16,7 +16,7 @@
 
 ### 🌱 Currently Learning
 - **Data Structures & Algorithms (DSA)**  
-- **Machine Learning & Data Analysis** fundamentals  
+- **Machine Learning & Data Analysis fundamentals** 
 - **C++** and **JavaScript**
 
 ---
