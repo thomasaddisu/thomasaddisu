@@ -10,7 +10,7 @@
 ---
 
 ### 🔭 Currently Working On
-- 🐍 A **Python Expense Tracker** → [View here](https://github.com/thomasaddisu/Expense-Tracker)
+- 🐍 A **Expense Tracker web app by React** → [View here](https://github.com/thomasaddisu/Expense-Tracker-by-react.git)
 
 ---
 
