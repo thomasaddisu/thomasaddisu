@@ -33,7 +33,7 @@
 ---
 
 ### 💬 Ask Me About
--**HTML**, **CSS**, **java Script**, or **react.js**  
+- **HTML**, **CSS**, **java Script**, or **react.js**  
 - **Python**, **DSA**, or **C++**  
 - How to start coding or build beginner-friendly projects
 
