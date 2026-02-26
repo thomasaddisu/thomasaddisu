@@ -10,29 +10,30 @@
 ---
 
 ### 🔭 Currently Working On
-- 🐍 A **Expense Tracker web app by React** → [View here](https://github.com/thomasaddisu/Expense-Tracker-by-react.git)
+- 🐍 A **E-commerce App with ChatBot** → [View here](https://github.com/thomasaddisu/miniProject.git)
 
 ---
 
 ### 🌱 Currently Learning
-- **Data Structures & Algorithms (DSA)**  
-- **Machine Learning & Data Analysis fundamentals** 
-- **C++** and **JavaScript**
+- **React.js**  
+- **Node.js** 
+
 
 ---
 
 ### 👯 Looking to Collaborate On
-- Open-source **Python** and **AI-related** projects
+- Open-source **React**  projects
 
 ---
 
 ### 🤔 Looking for Help With
-- Strengthening my **Python** and **DSA** skills  
+- Strengthening my **FrontEnd**  skills  
 - Building **production-ready** portfolio projects
 
 ---
 
 ### 💬 Ask Me About
+-**HTML**, **CSS**, **java Script**, or **react.js**  
 - **Python**, **DSA**, or **C++**  
 - How to start coding or build beginner-friendly projects
 
