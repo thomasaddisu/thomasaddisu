@@ -40,7 +40,7 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: [addisuthomas8@gmail.com](mailto:addisuthomas8@gmail.com)  
+- 📧 Email: [addisuthomas8@gmail.com](mailto:addisuthomas8@gmail.com)   or [thomas.addisu@aastustudent.edu.et](mailto:thomas.addisu@aastustudent.edu.et)
 - 💬 Telegram: [@v_empire0](https://t.me/v_empire0)  
 - 🧠 YouTube: [Coming Soon](https://youtube.com/@TomCodes)
 
